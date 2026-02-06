@@ -3,7 +3,9 @@
 
 # 02-DataVis-5ways
 
-Assignment 2 - Data Visualization, 5 Ways  
+Assignment 2 - Data Visualization, 5 Ways
+Ayush Kulkarni
+Link to Github Pages: https://ayushk2023.github.io/a2-DataVis-5ways/index.html
 ===
 
 # Original Chart
