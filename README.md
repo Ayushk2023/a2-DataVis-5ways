@@ -10,10 +10,10 @@ Link to Github Pages: https://ayushk2023.github.io/a2-DataVis-5ways/index.html
 
 # Original Chart
 
-![ggplot2](img/ggplot2.png)
+![ggplot2](/docs/img/ggplot2.png)
 
 # d3 Chart
-![D3 Visualization](img/D3Viz.JPG)
+![D3 Visualization](/docs/img/D3Viz.JPG)
 
 For the d3 chart, I used the following resourcs:
 chart: https://d3js.org/getting-started
@@ -31,7 +31,7 @@ I was able to recreate the graph close to the original. I attempted, but had dif
 - Used built-in color scheme
 
 # ggplot Chart
-![ggplot Visualization](img/ggplotViz.JPG)
+![ggplot Visualization](/docs/img/ggplotViz.JPG)
 
 For the ggplot chart, I used the following resources:
 chart: https://www.geeksforgeeks.org/r-language comprehensive-guide-to-scatter-plot-using-ggplot2-in-r/
@@ -48,7 +48,7 @@ This graph was also easy to create. The hardest part was getting r files to run 
 - similar layout as reference for axis labels and legend
 
 # altair chart
-![altair Visualization](img/AltairViz.JPG)
+![altair Visualization](/docs/img/AltairViz.JPG)
 
 For the altair chart, I used the following resourcs:
 sample: https://altair-viz.github.io/user_guide/data.html
@@ -65,7 +65,7 @@ This was also relatively easy, although more complex than the previous charts to
 - Adjust scale of data points
 
 # gnuplot chart
-![gnuPlot Visualization](img/GNUPlot.JPG)
+![gnuPlot Visualization](/docs/img/GNUPlotViz.JPG)
 
 For the gnuplot chart, I used the following resourcs:
 docs: http://www.gnuplot.info/docs_6.0/Gnuplot_6.pdf
@@ -81,7 +81,7 @@ This was the hardest to implement. This is because the documentation for this is
 - tick marks at consistent increments
 
 # datawrapper chart
-![datawrapper Visualization](img/datawrapper.png)
+![datawrapper Visualization](/docs/img/datawrapper.png)
 
 This was the easiest method to implement, because it required no setup, the website had easy to navigate UI, and generated both png and website versions of the chart at the end. I could not figure out, however, how to change the location of the legends where they did not interfere with other elements of the chart or increase their size. The version on the website is dynamic to fit display size.
 
